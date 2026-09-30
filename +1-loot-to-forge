@@ -1,6 +1,4 @@
---[[ loottoforge.lua - "[Races]+1 Loot To Forge" (place 118805555015549, Good Bro Studio)
-
-  The loop the game actually runs:
+ The loop the game actually runs:
 
       stand in a TRAIN area  -> the game trains by itself -> power -> level
       enter a STAGE          -> enemies spawn, die, drop ORE
